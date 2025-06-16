@@ -17,7 +17,7 @@ venv/
 .Python
 
 # Gmsh output
-mesh.msh
+Traverse.msh
 
 # NumPy caches
 *.npy
